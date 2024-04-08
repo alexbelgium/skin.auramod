@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addon id="skin.auramod" version="1.1.9" name="Aura[COLOR cyan]MOD[/COLOR]" provider-name="skyfsza,inb4after,SerpentDrago">
+<addon id="skin.auramod" version="1.2.0" name="Aura[COLOR cyan]MOD[/COLOR]" provider-name="skyfsza,inb4after,SerpentDrago">
     <requires>
         <import addon="xbmc.gui" version="5.17.0"/>
         <import addon="script.skin.helper.service" version="1.1.24"/>
@@ -17,7 +17,7 @@
         <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i"/>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">Matrix / Kodi 19 Version of Auramod </summary>
+        <summary lang="en">Omega / Kodi 21 Version of Auramod </summary>
         <description lang="en">AuraMod is a Heavily Modified version of Aura by jurialmunkey. Combining parts and code of Aura,AZ2,Titan bingie, and many other skins  Credit to all those Devs for without them this would not be possible [COLOR cyan]Mods to Aura by skyfsza,inb4after,SerpentDrago[/COLOR]</description>
         <platform>all</platform>
         <license>Creative Commons Attribution Non-Commercial Share-Alike 4.0</license>
@@ -32,6 +32,8 @@
             <screenshot>resources/screenshot-05.jpg</screenshot>
         </assets>
         <news>
+            v1.2.0
+            -Allow for kodi 21
             v1.1.9
             -Fix Aura Home horizontal menu layout
             -Fix conditional spacers when horizontal menu enabled
