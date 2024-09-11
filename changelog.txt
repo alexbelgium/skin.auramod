@@ -1,3 +1,5 @@
+v2.0.3
+-Increase xbmc.gui version for Omega
 v2.0.2
 -Fix missing Timers.xml log warning
 -Fix deprecated Player.DisplayAfterSeek
